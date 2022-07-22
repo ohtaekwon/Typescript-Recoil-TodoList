@@ -1,5 +1,6 @@
 import React from "react";
 import { useRecoilValue } from "recoil";
+import Calendar from "../../components/Calendar";
 import { TodoItemQuery } from "../../state";
 
 export default function MainPage() {
@@ -9,6 +10,7 @@ export default function MainPage() {
     <>
       <h1>여기는 메인 페이지입니다.</h1>
       <div>{data.title}</div>
+      <Calendar />
     </>
   );
 }
