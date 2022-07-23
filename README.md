@@ -43,3 +43,9 @@ npm i react-transition-group
 
 npm i @types/react-transition-group
 ```
+
+### 6) react-styled / react-icons
+
+```shell
+npm i @emotion/react @emotion/styled react-icons
+```
