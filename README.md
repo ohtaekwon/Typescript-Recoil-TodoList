@@ -1,5 +1,7 @@
 # TypeScript - Recoil Todo List
 
+- 리코일을 활용한 todolist 만들기
+
 ## 1. Recoil
 
 ### 1) RecoilRoot
